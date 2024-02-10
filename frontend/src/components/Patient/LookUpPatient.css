@@ -1,0 +1,19 @@
+.Lookup{
+    margin: 1vh;
+    width: 300px;
+    background-color: #fff;
+}
+span{
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #fff;
+}
+
+.content{
+   background-color: #fff;
+   width: fit-content;
+   height: fit-content;
+   margin-left: 30%;
+   margin-top: 10%;
+   padding: 10px;
+}

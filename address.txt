@@ -1,0 +1,5 @@
+AccessControl contract deployed to: 0xA98E2fF956d75a2A90eE2194A1d3651119e8250A
+Doctors contract deployed to: 0x8465866D51E73bd838bF53350813c806f217a3c8
+Patients contract deployed to: 0x6c0ebd5b5c497Cb82Ca1dc828f2c39C0414475BF
+Records contract deployed to: 0xb1715692e13344A120aA0C13d974d6ad70f03A8a
+MedicalInfo contract deployed to: 0xeF80F0c9BFfCddfff97e07DD8fE4fCedf0dD22A6

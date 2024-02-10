@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.LookUp{
+    margin: 1vh;
+    width: 300px;
+    background-color: #fff;
+}
+span{
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #fff;
+}
+
+.content{
+   background-color: #fff;
+   width: fit-content;
+   height: fit-content;
+   margin-left: 33%;
+   margin-top: 5%;
+   padding: 10px;
+}
+h3{
+    margin-left: 33%;
+    margin-top: 1%;  
+}
+
+.content2{
+    background-color: #fff;
+    width: fit-content;
+    height: fit-content;
+    margin-left: 33%;
+    margin-top: 1%;
+    padding: 10px;
+ }
